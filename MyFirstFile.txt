@@ -1,3 +1,4 @@
 changes made by DEV2
 Modified by DEV1
 changes to understand .git commit id
+changes from master branch
