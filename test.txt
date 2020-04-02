@@ -1,1 +1,2 @@
 Welcome to GIT Demo.This is my first demo of Git
+second test merge
